@@ -183,7 +183,7 @@ elif selected == "Predict":
             predicted_price = prediction[0]
             st.markdown("### **Predicted Price:**")
             st.markdown(f"<h1 style='text-align: center; color: #4CAF50;'>₹{predicted_price:,.2f}</h1>", unsafe_allow_html=True)
-            st.info("💡 Did you know? The color of a car can affect its resale value!")
+            
         except Exception as e:
             st.error(f"An error occurred during prediction: {e}")
 
