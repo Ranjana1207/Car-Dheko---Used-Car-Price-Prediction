@@ -68,21 +68,11 @@ Cons: Can overfit, requires careful tuning.
 
 Use when: You want high accuracy and interpretability is less important.
 
-5.Decision Tree Regressor
-
-It works by splitting the data into subsets based on the feature that minimizes error, eventually predicting a continuous output .
-
-Pros: Is a supervised learning algorithm used for regression tasks. 
-
-Cons: The algorithm starts with the entire dataset and chooses the feature that best reduces the variance in the target variable as the root node.
-
-Use when: The mean (or sometimes median) of the target values in a leaf node is used as the prediction for that group.
-
 Remember, the best algorithm often depends on your specific dataset and problem. It's common to try several and compare their performance.
 
 ## Results:
 
-## Random Forest:
+##  XGBoost (eXtreme Gradient Boosting):
 
 Achieved the best performance with the highest R² and the lowest MSE/MAE, making it the chosen model for deployment.
 
