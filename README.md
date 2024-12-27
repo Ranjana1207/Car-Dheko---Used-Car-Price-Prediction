@@ -87,9 +87,12 @@ Deploying the predictive model through the Streamlit application revolutionizes 
 
 
 ## Car Price Prediction
-![Predicted Price](https://github.com/user-attachments/assets/cf6bb5c0-1f54-4111-8392-df35c6cca760)
+![Car new predict](https://github.com/user-attachments/assets/3cbc3616-da72-4192-be3a-57fd4f3dbaea)
 
-## Insights 
-## ![Insigts](https://github.com/user-attachments/assets/ea846d0b-aa88-4cb4-8c90-2f48286c05a2)
+![Car new predict ans](https://github.com/user-attachments/assets/d29c6bf4-34d1-4964-ab1e-babd78babfac)
+
+
+
+
 
 
